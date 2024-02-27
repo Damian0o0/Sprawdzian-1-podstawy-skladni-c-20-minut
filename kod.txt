@@ -1,0 +1,30 @@
+using System;
+
+namespace ConsoleApp6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //zad1
+                //Damian Górka
+                //2p2
+            //zad2
+                string stala1 = "Radom ";
+                string stala2 = "Jasiek Nowak";
+            //zad3
+                Console.WriteLine(stala2 + " mieszka w miescie " + stala1 + "od 10 lat");
+            //zad4
+                Console.WriteLine("Informacje ksiązkach znajdziemy w lokalizacji: c:\zbiory\ksiazki.");
+            //zad5
+                Console.WriteLine("Zadeklarowane stałe mają łącznie" + ile + "znaków");
+            //zad6
+                Console.WriteLine("Pierwszy znak nazwy miasta to :" + znak1);
+                Console.WriteLine("Ostatni znak nazwiska to:" + znak2);
+            //zad7
+            Console.WriteLine("Reszta z dzielenia" + A + "przez" + B + "=" + wynik);
+            //zad8
+                Console.WriteLine("Pierwiastek:" + pierwiastek);
+        }
+    }
+}
